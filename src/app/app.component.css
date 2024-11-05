@@ -1,0 +1,10 @@
+.nav-link:hover {
+    background-color: #f8f9fa; /* Change to the desired color */
+    color: #212529; /* Change to the desired color */
+  }
+  
+  .nav-link.active {
+    background-color: #db4b4b; /* Change to the desired color */
+    color: #fafafa; /* Change to the desired color */
+  }
+  
